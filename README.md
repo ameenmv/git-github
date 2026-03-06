@@ -1,9 +1,9 @@
-# 🚀 Mastering Git & GitHub: The Frontend Developer's Guide
+#  Mastering Git & GitHub: The Frontend Developer's Guide
 **Your ultimate time machine and collaboration tool.**
 
 ---
 
-## 🎬 Slide 1: The Origin Story (2005)
+##  Slide 1: The Origin Story (2005)
 **"Necessity is the mother of invention."**
 
 * **The Crisis:** Back in 2005, thousands of developers were writing the Linux operating system. The massive code was chaotic, and their management tool broke down. 
@@ -13,22 +13,22 @@
 
 ---
 
-## 🌍 Slide 2: Git vs. GitHub (Clearing the Confusion)
+##  Slide 2: Git vs. GitHub (Clearing the Confusion)
 **They are not the same thing!**
 
-### 🛠️ Git (The Engine)
+###  Git (The Engine)
 * It's the software installed on your local laptop.
 * It is a **Version Control System**. 
 * Think of it as a time machine that tracks every single line of code you change.
 
-### ☁️ GitHub (The Cloud)
+###  GitHub (The Cloud)
 * It's the website where we host our Git repositories.
 * Think of it as **Google Drive for developers**.
 * It’s where our entire team collaborates, reviews code, and builds our portfolio.
 
 ---
 
-## 🧠 Slide 3: The 3 Pillars of Git
+##  Slide 3: The 3 Pillars of Git
 **Before we write commands, we must understand how Git thinks.**
 
 1. **Working Directory:** Where you write your code (e.g., editing `Navbar.vue` or adding a GSAP animation).
@@ -37,7 +37,7 @@
 
 ---
 
-## 🏗️ Slide 4: Starting a Project
+##  Slide 4: Starting a Project
 **How to get things moving.**
 
 * `git init`
@@ -50,7 +50,7 @@
 
 ---
 
-## 🔄 Slide 5: The Daily Workflow (The Golden Loop)
+##  Slide 5: The Daily Workflow (The Golden Loop)
 **You will use these 3 commands 50 times a day.**
 
 1. `git status` 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🤝 Slide 6: Team Collaboration
+##  Slide 6: Team Collaboration
 **Connecting your local machine to the rest of the team.**
 
 * `git push`
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌿 Slide 7: Branching (Safe Experiments)
+##  Slide 7: Branching (Safe Experiments)
 **Never test a new idea on the main project!**
 
 * `git branch <branch-name>`
@@ -89,7 +89,7 @@
 
 ---
 
-## 🧯 Slide 8: Advanced Lifesavers
+##  Slide 8: Advanced Lifesavers
 **Oops, I made a mistake!**
 
 * `git log`
